@@ -1,10 +1,6 @@
-<!-- JS Configuration -->
-<script src="/assets/js/sorttable.js">
-</script>
-
 <!-- CSS Configuration -->
 <style>
-  #red {
+  .red {
       width: 10px;
       height: 10px;
       -webkit-border-radius: 25px;
@@ -15,7 +11,7 @@
       /* margin-left: 10%; */
   }
 
-  #yellow {
+  .yellow {
       width: 10px;
       height: 10px;
       -webkit-border-radius: 25px;
@@ -25,7 +21,7 @@
       display: inline-block;
   }
 
-  #green {
+  .green {
       width: 10px;
       height: 10px;
       -webkit-border-radius: 25px;
@@ -41,11 +37,15 @@
     border-top: 1px solid black;
     border-collapse: collapse;
   }
+
+  td .priority {
+    text-align: center
+  }
 </style>
 
 # Incidents
 
- <table class="sortable">
+ <table>
  <thead>
   <tr>
     <th>Priority</th>
@@ -55,13 +55,14 @@
   </tr>
  </thead>
     <tr>
-        <td>
-          <div id="red"></div>
+        <td class="priority">
+          <div class="red"></div>
         </td>
         <td>
           <a href="/src/cpc/README.md">
             Colonial Pipeline cyberattack
           </a>
+          [Florida water treatment plant cyberattack](/src/fwt/)
         </td>
         <td>Critical Infrastructure</td>
         <td>2021</td>
@@ -75,19 +76,6 @@
         <td>Cell</td>
     </tr>
 </table>
-
-| | | |
-|-|-|-|
-|__Bold Key__| Value1 |
-| Normal Key | Value2 |
-
-
-| Column 1 Header | Column 2 Header | Column 3 Header |
-| --------------- | --------------- | --------------- |
-| Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
-| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
-| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
-
 
 [Florida water treatment plant cyberattack](/src/fwt/README.md)
 
