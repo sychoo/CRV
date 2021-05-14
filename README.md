@@ -54,11 +54,11 @@
 <!-- 🟡 -->
 <!-- 🔴 -->
 
- | Priority | Name                                                            | Category                | Year  |
- | :------: | :-------------------------------------------------------------- | :---------------------- | :---: |
-  |    🔴     | [Colonial Pipeline cyberattack](/src/cpc/README.md)             | critical infrastructure | 2021  |
- |    🔴     | [Florida water treatment plant cyberattack](/src/fwt/README.md) | critical infrastructure | 2021  |
- |    🟡     | [Mars Polar Lander landing failure](/src/mpl/README.md)         | critical infrastructure | 1999  |
+| Priority | Name                                                            | Category                | Year  |
+| :------: | :-------------------------------------------------------------- | :---------------------- | :---: |
+|    🔴     | [Colonial Pipeline cyberattack](/src/cpc/README.md)             | critical infrastructure | 2021  |
+|    🔴     | [Florida water treatment plant cyberattack](/src/fwt/README.md) | critical infrastructure | 2021  |
+|    🟡     | [Mars Polar Lander landing failure](/src/mpl/README.md)         | critical infrastructure | 1999  |
 <!-- TODO: -->
 <!-- https://www.nytimes.com/2020/05/19/world/middleeast/israel-iran-cyberattacks.html?referringSource=articleShare -->
 
