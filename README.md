@@ -49,15 +49,11 @@
 
 # Incidents
 
-| Priority | Name | Category | Year |
-|    :-:   | :--  |   :---   | :-: |
+| Priority | Name                                                            | Category                | Year  |
+| :------: | :-------------------------------------------------------------- | :---------------------- | :---: |
 |    🔴     | [Colonial Pipeline cyberattack](/src/cpc/README.md)             | critical infrastructure | 2021  |
 |    🔴     | [Florida water treatment plant cyberattack](/src/fwt/README.md) | critical infrastructure | 2021  |
 |    🟡     | [Mars Polar Lander landing failure](/src/mpl/README.md)         | critical infrastructure | 1999  |
-
-| hello | hi |
-| ----- | -- |
-| 1     | 2  |
 
 ##### *The incidents are displayed in reverse-chronological order
 # Contributing
