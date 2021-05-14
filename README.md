@@ -49,18 +49,11 @@
 
 # Incidents
 
-<!-- <div class="red"></div>  -->
-<!-- 🟢 -->
-<!-- 🟡 -->
-<!-- 🔴 -->
-
 | Priority | Name | Category | Year |
 |    :-:   | :--  |   :---   | :-: |
 |    🔴     | [Colonial Pipeline cyberattack](/src/cpc/README.md)             | critical infrastructure | 2021  |
 |    🔴     | [Florida water treatment plant cyberattack](/src/fwt/README.md) | critical infrastructure | 2021  |
 |    🟡     | [Mars Polar Lander landing failure](/src/mpl/README.md)         | critical infrastructure | 1999  |
-<!-- TODO: -->
-<!-- https://www.nytimes.com/2020/05/19/world/middleeast/israel-iran-cyberattacks.html?referringSource=articleShare -->
 
 | hello | hi |
 | ----- | -- |
@@ -84,3 +77,7 @@
 - For the level assigned to the contributed incident, please justify the assignment by documenting references of credible statements from trusted media, academic publications, or witness accounts.
 
 <!-- TODO: State why this project is helpful -->
+
+<!-- TODO: -->
+<!-- https://www.nytimes.com/2020/05/19/world/middleeast/israel-iran-cyberattacks.html?referringSource=articleShare -->
+
