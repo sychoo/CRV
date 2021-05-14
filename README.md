@@ -32,7 +32,7 @@
       display: inline-block;
   }
 
-  tr {
+  /* tr {
     border-bottom: 1px solid black;
     border-top: 1px solid black;
     border-collapse: collapse;
@@ -40,44 +40,18 @@
 
   td .priority {
     text-align: center
-  }
+  } */
 </style>
 
 # Incidents
 
- <table>
- <thead>
-  <tr>
-    <th>Priority</th>
-    <th>Name</th>
-    <th>Category</th>
-    <th>Year</th>
-  </tr>
- </thead>
-    <tr>
-        <td class="priority">
-          <div class="red"></div>
-        </td>
-        <td>
-          <a href="/CRV/src/cpc">
-            Colonial Pipeline cyberattack
-          </a>
-          [Florida water treatment plant cyberattack](/src/fwt/)
-        </td>
-        <td>Critical Infrastructure</td>
-        <td>2021</td>
-    </tr>
-    <tr>
-        <td>Cell</td>
-        <td>Cell</td>
-    </tr>
-    <tr>
-        <td>Cell</td>
-        <td>Cell</td>
-    </tr>
-</table>
+ | Priority | Name | Category | Year |
+ |   :-:    | :--  | :--      | :-:  |
+ | <div class="red"></div> | [Florida water treatment plant cyberattack](/src/fwt/) | critical infrastructure | 2021 |
+ | <div class="red"></div> | [Colonial Pipeline cyberattack](/src/cpc/) | critical infrastructure | 2021 |
+ | <div class="yellow"></div> | [Mars Polar Lander landing failure](/src/mpl/) | critical infrastructure | 2021 |
 
-[Florida water treatment plant cyberattack](/src/fwt/README.md)
+
 
 ##### *The incidents are displayed in reverse-chronological order
 # Contributing
