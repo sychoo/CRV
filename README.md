@@ -49,7 +49,7 @@
 
  | Priority | Name | Category | Year |
  |   :-:    | :--  | :--      | :-:  |
- | <div class="red"></div> | [Florida water treatment plant cyberattack](/src/fwt/README.md) | critical infrastructure | 2021 |
+ | \<div class="red"\>\<\/div\> | [Florida water treatment plant cyberattack](/src/fwt/README.md) | critical infrastructure | 2021 |
  | <div class="red"></div> | [Colonial Pipeline cyberattack](/src/cpc/README.md) | critical infrastructure | 2021 |
  | <div class="yellow"></div> | [Mars Polar Lander landing failure](/src/mpl/README.md) | critical infrastructure | 2021 |
 
