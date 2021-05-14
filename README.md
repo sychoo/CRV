@@ -59,7 +59,7 @@
           <div class="red"></div>
         </td>
         <td>
-          <a href="/src/cpc">
+          <a href="/CRV/src/cpc">
             Colonial Pipeline cyberattack
           </a>
           [Florida water treatment plant cyberattack](/src/fwt/)
