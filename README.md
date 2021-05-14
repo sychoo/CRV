@@ -33,7 +33,7 @@
   }
   
   table {
-    border: none;
+    border: none !important;
   }
   /* tr {
     border-bottom: 1px solid black;
