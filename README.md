@@ -76,7 +76,10 @@
     </tr>
 </table>
 
-
+| | | |
+|-|-|-|
+|__Bold Key__| Value1 |
+| Normal Key | Value2 |
 
 
 [Florida water treatment plant cyberattack](/src/fwt/README.md)
