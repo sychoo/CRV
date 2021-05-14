@@ -21,7 +21,7 @@
       -webkit-border-radius: 25px;
       -moz-border-radius: 25px;
       border-radius: 25px;
-      background: yellow;
+      background: gold;
       display: inline-block;
   }
 
