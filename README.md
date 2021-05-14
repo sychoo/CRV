@@ -31,7 +31,10 @@
       /* float: left; */
       display: inline-block;
   }
-
+  
+  table {
+    border: none;
+  }
   /* tr {
     border-bottom: 1px solid black;
     border-top: 1px solid black;
@@ -50,12 +53,11 @@
 <!-- 🟡 -->
 <!-- 🔴 -->
 
- | Priority | Name | Category | Year |
- |   :-:    | :--  | :--      | :-:  |
- | ![](/red.png =10x10)| hello | hello | hello|
- | 🔴 | [Florida water treatment plant cyberattack](/src/fwt/README.md) | critical infrastructure | 2021 |
- | 🔴 | [Colonial Pipeline cyberattack](/src/cpc/README.md) | critical infrastructure | 2021 |
- | 🟡 | [Mars Polar Lander landing failure](/src/mpl/README.md) | critical infrastructure | 2021 |
+ | Priority | Name                                                            | Category                | Year  |
+ | :------: | :-------------------------------------------------------------- | :---------------------- | :---: |
+ |    🔴     | [Florida water treatment plant cyberattack](/src/fwt/README.md) | critical infrastructure | 2021  |
+ |    🔴     | [Colonial Pipeline cyberattack](/src/cpc/README.md)             | critical infrastructure | 2021  |
+ |    🟡     | [Mars Polar Lander landing failure](/src/mpl/README.md)         | critical infrastructure | 2021  |
 
 
 ##### *The incidents are displayed in reverse-chronological order
