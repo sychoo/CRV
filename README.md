@@ -49,11 +49,14 @@
 
 # Incidents
 
-| Priority | Name                                                            | Category                | Reason              | Year  |
-| :------: | :-------------------------------------------------------------- | :---------------------- | :------------------ | :---: |
-|    🔴     | [Colonial Pipeline cyberattack](/src/cpc/README.md)             | critical infrastructure | cyberattack         | 2021  |
-|    🔴     | [Florida water treatment plant cyberattack](/src/fwt/README.md) | critical infrastructure | cyberattack         | 2021  |
-|    🟡     | [Mars Polar Lander landing failure](/src/mpl/README.md)         | unmanned aerial vehicle | feature interaction | 1999  |
+| Priority | Name                                                                      | Category                | Reason                     | Year  |
+| :------: | :------------------------------------------------------------------------ | :---------------------- | :------------------------- | :---: |
+|    🔴     | [Colonial Pipeline cyberattack](/src/cpc/README.md)                       | critical infrastructure | cyberattack                | 2021  |
+|    🔴     | [Florida water treatment plant cyberattack](/src/fwt/README.md)           | critical infrastructure | cyberattack                | 2021  |
+|    🔴     | [Mumbai power outage](/src/mpo/README.md)                                 | critical infrastructure | cyberattack                | 2020  |
+|    🟡     | [Mars Polar Lander landing failure](/src/mpl/README.md)                   | unmanned aerial vehicle | feature interaction        | 1999  |
+|    🔴     | [Three Mile Island nuclear reactor meltdown accident](/src/tmi/README.md) | critical infrastructure | human-computer interaction | 1979  |
+|    🔴     | [Flixborough chemical plant explosion disaster](/src/fcp/README.md)       | critical infrastructure | feature interaction        | 1974  |
 
 ##### *The incidents are displayed in reverse-chronological order
 # Contributing
@@ -73,6 +76,8 @@
 - For the level assigned to the contributed incident, please justify the assignment by documenting references of credible statements from trusted media, academic publications, or witness accounts.
 
 <!-- TODO: State why this project is helpful -->
+<!-- learn from the past -->
+<!-- 不要重蹈历史覆辙 -->
 
 <!-- TODO: -->
 <!-- https://www.nytimes.com/2020/05/19/world/middleeast/israel-iran-cyberattacks.html?referringSource=articleShare -->
