@@ -1,6 +1,7 @@
 # Colonial Pipeline Cyberattack
 ## Overview
 ### Timeline
+
 | event | date |
 | :--:   | --:  |
 | data stolen | 5/6/2021 |
